@@ -1,7 +1,6 @@
 # Projets Data Visualisation
 
-Ce dépôt contient plusieurs projets de visualisation de données réalisés avec Power BI,
-visant à transformer des données brutes en tableaux de bord interactifs pour répondre à des besoins métiers concrets.
+Ce dépôt contient plusieurs projets de visualisation de données, visant à transformer des données brutes en tableaux de bord interactifs pour répondre à des besoins métiers concrets.
 
 ## Projets
 
@@ -24,10 +23,10 @@ visant à transformer des données brutes en tableaux de bord interactifs pour r
 - Diagramme linéaire
 - Diagrammes à barres
 - Graphique cartographique
-- Graphiques des 10 premiers
+- Top 10 Graphs
 - Couleur de la barre de gradient
 - Détails des clients
 - Tableau croisé dynamique
 #### Dashboard
-- [Télechager le dashhboard](https://github.com/AmineAsbane/Projets-Data-Visualisation/blob/main/Projet%20PowerBI%20Sales%20Report.pbix)
+- [Téléchager le dashhboard](https://github.com/AmineAsbane/Projets-Data-Visualisation/blob/main/Projet%20PowerBI%20Sales%20Report.pbix)
 - [Visualiser la capture d'écran](https://github.com/AmineAsbane/Projets-Data-Visualisation/blob/main/Projet%20PowerBI%20Sales%20Report.pdf)
